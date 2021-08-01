@@ -2,7 +2,7 @@ import { css } from '@emotion/core';
 
 export const styWrapper = css`
   .sub-title {
-    color: #926E6F;
+    color: #ECA3F5;
     font-weight: 600;
     letter-spacing: 1px;
     line-height: 20px;
